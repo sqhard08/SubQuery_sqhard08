@@ -1,4 +1,4 @@
-1{
+2{
   "compilerOptions": {
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
